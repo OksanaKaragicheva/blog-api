@@ -1,5 +1,31 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Install
+First, clone the repo via git:
+
+### `git clone https://github.com/OksanaKaragicheva/blog-api.git your-project-name`
+And then install dependencies with yarn.
+
+### `$ cd your-project-name`
+### `$ yarn`
+Note: If you can't use yarn, run npm install.
+
+## Run
+Install json-server:
+
+###  `$ npm install -g json-server`
+Start the file "db.json":
+
+### `$ json-server --watch db.json --port 3001`
+
+Open a new tab in the current directory and start the app in the dev environment:
+
+### `$ npm run start`
+or
+
+### `$ yarn start`
+After run, the browser open window automatically at http://localhost:3000/
+
 ## Available Scripts
 
 In the project directory, you can run:

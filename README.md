@@ -11,20 +11,22 @@ And then install dependencies with yarn.
 Note: If you can't use yarn, run npm install.
 
 ## Run
-Install json-server:
+Run json-server and starts the file "db.json":
+### `$ cd json-server`
+###  `$ npm start` 
 
-###  `$ npm install -g json-server`
-Start the file "db.json":
-
-### `$ json-server --watch db.json --port 3001`
-
-Open a new tab in the current directory and start the app in the dev environment:
-
-### `$ npm run start`
+Open a new tab in the current directory (your-project-name) and start the app in the dev environment:
+### `$ npm start`
 or
 
 ### `$ yarn start`
 After run, the browser open window automatically at http://localhost:3000/
+
+
+
+
+
+
 
 ## Available Scripts
 

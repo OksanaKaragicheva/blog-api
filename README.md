@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Install
 First, clone the repo via git:
 
-### `git clone https://github.com/mariorodeghiero/react-gist-interview.git your-project-name`
+### `git clone https://github.com/OksanaKaragicheva/blog-api.git your-project-name`
 And then install dependencies with yarn.
 
 ### `$ cd your-project-name`
